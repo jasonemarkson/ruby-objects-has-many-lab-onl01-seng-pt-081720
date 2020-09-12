@@ -6,10 +6,7 @@ class Artist
     @name = name
   end
   
-  def songs
-    #self.songs
-    binding.pry
-  end
+
   
   
 
