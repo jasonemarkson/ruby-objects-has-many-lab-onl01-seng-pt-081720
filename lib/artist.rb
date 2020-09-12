@@ -8,6 +8,7 @@ class Artist
   
   def songs
     self.songs
+    binding.pry
   end
   
   
