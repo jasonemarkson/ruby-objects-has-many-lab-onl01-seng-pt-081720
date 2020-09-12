@@ -7,6 +7,7 @@ class Artist
     @songs = []
   end
   
-  def 
+  def songs 
+    
 
 end
